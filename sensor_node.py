@@ -1,0 +1,1 @@
+#simulates a microcontroller or sensor node that sends data to the server
